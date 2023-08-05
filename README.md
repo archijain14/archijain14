@@ -8,7 +8,7 @@
 | I am a final-year undergraduate student pursuing a degree in Computer Science. With a passion for innovation and problem-solving, I have dedicated my academic journey to exploring the ever-evolving world of technology.<br><br>Throughout my undergraduate years, I have gained a strong foundation in various programming languages, data structures, algorithms, and software development methodologies. |
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jain_archi_14)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/archi-jain-8b8bb9215) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22340518/archi-jain) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jain_archi_14)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-jain-8b8bb9215/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22340518/archi-jain) 
 [![](https://visitcount.itsvg.in/api?id=archijain14&icon=0&color=0)](https://visitcount.itsvg.in)
 
 |💻 Tech Stack | 
